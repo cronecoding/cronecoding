@@ -11,4 +11,4 @@ cronecoding/cronecoding is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-This file is a map i will use on the website i am birthing: https://inkwell-global-report.b12sites.com/index#team
+These files are my raw learning curve. Be kind. Be helpful. 
